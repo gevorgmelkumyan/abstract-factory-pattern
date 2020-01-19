@@ -1,0 +1,14 @@
+{
+    "name": "gevorgmelkumyan/abstract-factory",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": ""
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}
